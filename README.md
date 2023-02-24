@@ -17,3 +17,4 @@ https://public.tableau.com/app/profile/nima.vijayan/viz/HrAnalytics_167718762781
 - 56% of total attrition is from the R&D department
 - Maximum attrition is seen between Age group of 25-34
 
+![image](https://user-images.githubusercontent.com/103464406/221282983-85cd98dc-a642-4db1-8b5b-8c12a214c73c.png)
