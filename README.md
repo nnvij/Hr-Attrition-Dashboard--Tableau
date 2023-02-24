@@ -13,4 +13,7 @@
 
 ### HR Attrition Dashboard:
 https://public.tableau.com/app/profile/nima.vijayan/viz/HrAnalytics_16771876278180/HrAnalytics
-https://public.tableau.com/views/HrAnalytics_16771876278180/HrAnalytics?:language=en-US&:display_count=n&:origin=viz_share_link
+- The organization overall has an attrition rate of 16%
+- 56% of total attrition is from the R&D department
+- Maximum attrition is seen between Age group of 25-34
+
